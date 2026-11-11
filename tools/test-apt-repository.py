@@ -6,6 +6,7 @@ import os
 from pathlib import Path
 import pwd
 import subprocess
+import sys
 import tempfile
 from types import SimpleNamespace
 
@@ -48,6 +49,7 @@ def apt_environment(root, archive):
 
 
 def main():
+    sys.dont_write_bytecode = True
     spec = importlib.util.spec_from_file_location("archive_builder", Path(__file__).with_name("build-apt-repository.py"))
     builder = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(builder)
