@@ -1,0 +1,23 @@
+# Allp APT repository
+
+Signing-key fingerprint: `836BAE72B8316D13478D6ACD1234325D39217067`
+
+One-time setup (review the fingerprint before trusting the archive):
+
+```bash
+curl -fsSL https://allp-manager.github.io/apt/allp-archive-keyring.gpg -o /tmp/allp-archive-keyring.gpg
+gpg --show-keys --with-fingerprint /tmp/allp-archive-keyring.gpg
+sudo install -d -m 0755 /etc/apt/keyrings
+sudo install -m 0644 /tmp/allp-archive-keyring.gpg /etc/apt/keyrings/allp-archive-keyring.gpg
+curl -fsSL https://allp-manager.github.io/apt/allp.sources -o /tmp/allp.sources
+cat /tmp/allp.sources
+sudo install -m 0644 /tmp/allp.sources /etc/apt/sources.list.d/allp.sources
+sudo apt update
+sudo apt install allp
+```
+
+After setup, use `sudo apt install allp` or your normal APT upgrade workflow.
+This archive distributes the Allp project's packages; it is separate from the
+Debian and Ubuntu official repositories. Native library requirements are checked
+by APT. Architectures: amd64, arm64. Metadata expires after
+90 days and must be refreshed before expiry.
