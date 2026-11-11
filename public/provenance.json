@@ -2,8 +2,6 @@
   "release": "https://github.com/allp-manager/allp-manager/releases/tag/v0.6.5",
   "tag": "v0.6.5",
   "assets": {
-    "allp-v0.6.5-source.tar.gz": "2e456015356ae5b073d087dfbc26f0eef39642aba1e194b68761b2da0dc07a6b",
-    "allp-v0.6.5-x86_64-unknown-linux-gnu.tar.gz": "1601fe618fe7085c960f6422dc01951247acc43ba0bf359376d35a71eb63734f",
-    "allp-v0.6.5-aarch64-unknown-linux-gnu.tar.gz": "752ee4e927007abe64baca62e35214f39ac0819357bdba81baec73c1fb0a06bf"
+    "allp-v0.6.5-source.tar.gz": "2e456015356ae5b073d087dfbc26f0eef39642aba1e194b68761b2da0dc07a6b"
   }
 }
