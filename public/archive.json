@@ -2,6 +2,16 @@
   "fingerprint": "836BAE72B8316D13478D6ACD1234325D39217067",
   "suite": "stable",
   "packages": {
+    "allp_0.6.6-1_amd64.deb": {
+      "version": "0.6.6-1",
+      "architecture": "amd64",
+      "sha256": "4c0f9d2fe1d6322d4daaa61d748c9c9ee8da540fd1a05f6e915b636d4b55c3fe"
+    },
+    "allp_0.6.6-1_arm64.deb": {
+      "version": "0.6.6-1",
+      "architecture": "arm64",
+      "sha256": "c56d5909bd0a50acfe9667091280e47f9422e336c048d67b64b3a72e629a8d34"
+    },
     "allp_0.6.5-1_amd64.deb": {
       "version": "0.6.5-1",
       "architecture": "amd64",

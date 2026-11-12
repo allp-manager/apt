@@ -1,0 +1,32 @@
+Package: allp
+Version: 0.6.5-1
+Architecture: arm64
+Maintainer: Ali <Im_wrench@proton.me>
+Depends: libc6 (>= 2.39), libgcc-s1 (>= 4.2)
+Filename: pool/main/a/allp/allp_0.6.5-1_arm64.deb
+Size: 1204060
+MD5sum: db580cbf047b3cc688824209f5878ee8
+SHA1: fa08b8dba6713500473fe69a94b7982b52be5e86
+SHA256: 0bdd19e522f66c8f866a034303d5d56dde27cb6c389983c1764ed72367b574ae
+Section: utils
+Priority: optional
+Homepage: https://github.com/allp-manager/allp-manager
+Description: Transparent package-manager orchestrator
+ Packaged from the checksum-verified published Stable release.
+
+Package: allp
+Version: 0.6.6-1
+Architecture: arm64
+Maintainer: Ali <Im_wrench@proton.me>
+Depends: libc6 (>= 2.39), libgcc-s1 (>= 4.2)
+Filename: pool/main/a/allp/allp_0.6.6-1_arm64.deb
+Size: 1280676
+MD5sum: a1fba5cc87f9da5001aec0fc25f4bd82
+SHA1: 94c430f23940c63aa843e47e413184b172291e0a
+SHA256: c56d5909bd0a50acfe9667091280e47f9422e336c048d67b64b3a72e629a8d34
+Section: utils
+Priority: optional
+Homepage: https://github.com/allp-manager/allp-manager
+Description: Transparent package-manager orchestrator
+ Packaged from the checksum-verified published Stable release.
+
