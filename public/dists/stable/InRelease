@@ -5,21 +5,21 @@ Origin: Allp
 Label: Allp
 Suite: stable
 Codename: stable
-Date: Thu, 12 Nov 2026 00:24:04 GMT
-Valid-Until: Wed, 10 Feb 2027 00:24:04 GMT
+Date: Thu, 12 Nov 2026 13:49:50 GMT
+Valid-Until: Wed, 10 Feb 2027 13:49:50 GMT
 Architectures: amd64 arm64
 Components: main
 Acquire-By-Hash: yes
 Description: Allp package-manager orchestrator
 SHA256:
- 9411941c50c5eaf9e55d086f13f0396e0b01a4b3fe1da3dc9437ad80a4b2e5a0 1132 main/binary-amd64/Packages
- 202adc834187d0517d4cf685efea2538b86bb3e355501e54db8b93994621685b 535 main/binary-amd64/Packages.gz
- d46eba3a31fa8af3e8718be29adaddeed2e256fd01911b931a2deb7b1943be2a 1132 main/binary-arm64/Packages
- 3fdcef5ab783cfc66fdc762c63e6b09355d2d53ceddfde67b9899620d4de84d1 534 main/binary-arm64/Packages.gz
+ 8bbcb6aa8e0383197a12e956b75e3644425647e24fa141970c483cbd4663f358 1698 main/binary-amd64/Packages
+ 37e9f19109c98de6cfebc7ae32d7c04645de49434f40520465ef9fd39943eef2 639 main/binary-amd64/Packages.gz
+ c581664ab0b4b073ac0c373f7cc90266f0ea79b509554aaae92b76960ce9a58a 1698 main/binary-arm64/Packages
+ 6b4bc968c8d7b1484846878b7ac4e5af5a18370b3c2c54285015c902e5a8d768 638 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSDa65yuDFtE0eNas0SNDJdOSFwZwUCavUHJAAKCRASNDJdOSFw
-Z3wQAQDHmc+3MUOpAnquYAj5rrDZuCdlO1c6Bfa7zfb55y+iogD+MrbcuTtswRwZ
-YOP2lX0vrLFJrihSNcJOeJjLRRUn8wE=
-=KarI
+iHUEARYIAB0WIQSDa65yuDFtE0eNas0SNDJdOSFwZwUCavXD/gAKCRASNDJdOSFw
+Z8q+APsHkhGmABDP0X4MsAlMY3zJWHqHxto4AUUKrpJ1VK4ajAD7B/PM7+gc8BL2
+4OYvLbuobwLABpUPJt9XZVvhaj4+qwI=
+=Zn5H
 -----END PGP SIGNATURE-----
