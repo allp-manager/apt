@@ -2,14 +2,14 @@ Origin: Allp
 Label: Allp
 Suite: stable
 Codename: stable
-Date: Thu, 12 Nov 2026 13:49:50 GMT
-Valid-Until: Wed, 10 Feb 2027 13:49:50 GMT
+Date: Fri, 13 Nov 2026 10:31:05 GMT
+Valid-Until: Thu, 11 Feb 2027 10:31:05 GMT
 Architectures: amd64 arm64
 Components: main
 Acquire-By-Hash: yes
 Description: Allp package-manager orchestrator
 SHA256:
- 8bbcb6aa8e0383197a12e956b75e3644425647e24fa141970c483cbd4663f358 1698 main/binary-amd64/Packages
- 37e9f19109c98de6cfebc7ae32d7c04645de49434f40520465ef9fd39943eef2 639 main/binary-amd64/Packages.gz
- c581664ab0b4b073ac0c373f7cc90266f0ea79b509554aaae92b76960ce9a58a 1698 main/binary-arm64/Packages
- 6b4bc968c8d7b1484846878b7ac4e5af5a18370b3c2c54285015c902e5a8d768 638 main/binary-arm64/Packages.gz
+ 3fa0f52b6b1ebf2e289d4b76af7befe0374cda39beacc795fc01561e4dea00f4 2266 main/binary-amd64/Packages
+ 96e2a36663b5a54562311156eb16197c5035720afed37cc89fe1721a9a8c70ef 745 main/binary-amd64/Packages.gz
+ 56ea2aad6fdb87179e75f5ad3c86f383b72b0441e62db6f8f0132ca119e7149e 2266 main/binary-arm64/Packages
+ 51b69095c6acbf5cf5cfc27f1d162f93111f2753a472fd4815710762752b9d26 746 main/binary-arm64/Packages.gz

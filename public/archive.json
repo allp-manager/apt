@@ -2,6 +2,21 @@
   "fingerprint": "836BAE72B8316D13478D6ACD1234325D39217067",
   "suite": "stable",
   "packages": {
+    "allp_0.6.11-1_amd64.deb": {
+      "version": "0.6.11-1",
+      "architecture": "amd64",
+      "sha256": "0f6120024df07e767a08badc9e461f4c0503f98f5fa0103eab4bd3c6141e500c"
+    },
+    "allp_0.6.11-1_arm64.deb": {
+      "version": "0.6.11-1",
+      "architecture": "arm64",
+      "sha256": "f477560437b581603e8aba57d6ab33896f1b6e9f57f2a9153bb8d96a94e6cc60"
+    },
+    "allp_0.6.6-1_arm64.deb": {
+      "version": "0.6.6-1",
+      "architecture": "arm64",
+      "sha256": "c56d5909bd0a50acfe9667091280e47f9422e336c048d67b64b3a72e629a8d34"
+    },
     "allp_0.6.8-1_amd64.deb": {
       "version": "0.6.8-1",
       "architecture": "amd64",
@@ -11,11 +26,6 @@
       "version": "0.6.8-1",
       "architecture": "arm64",
       "sha256": "e2eda2ddb5262a8ef8e16c18963d638ef8855745e1674c2b4962cd06b2a7fcc0"
-    },
-    "allp_0.6.6-1_arm64.deb": {
-      "version": "0.6.6-1",
-      "architecture": "arm64",
-      "sha256": "c56d5909bd0a50acfe9667091280e47f9422e336c048d67b64b3a72e629a8d34"
     },
     "allp_0.6.5-1_amd64.deb": {
       "version": "0.6.5-1",

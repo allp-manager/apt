@@ -1,4 +1,20 @@
 Package: allp
+Version: 0.6.11-1
+Architecture: amd64
+Maintainer: Ali <Im_wrench@proton.me>
+Depends: libc6 (>= 2.39), libgcc-s1 (>= 4.2)
+Filename: pool/main/a/allp/allp_0.6.11-1_amd64.deb
+Size: 1376418
+MD5sum: 7e00658360a2880aa8a3994393b15ddb
+SHA1: 83f325c86d0f5fb88c5d196d472c9aee2f870627
+SHA256: 0f6120024df07e767a08badc9e461f4c0503f98f5fa0103eab4bd3c6141e500c
+Section: utils
+Priority: optional
+Homepage: https://github.com/allp-manager/allp-manager
+Description: Transparent package-manager orchestrator
+ Packaged from the checksum-verified published Stable release.
+
+Package: allp
 Version: 0.6.5-1
 Architecture: amd64
 Maintainer: Ali <Im_wrench@proton.me>
