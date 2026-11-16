@@ -2,8 +2,8 @@ Origin: Allp
 Label: Allp
 Suite: stable
 Codename: stable
-Date: Fri, 13 Nov 2026 10:31:05 GMT
-Valid-Until: Thu, 11 Feb 2027 10:31:05 GMT
+Date: Mon, 16 Nov 2026 16:04:30 GMT
+Valid-Until: Sun, 14 Feb 2027 16:04:30 GMT
 Architectures: amd64 arm64
 Components: main
 Acquire-By-Hash: yes
